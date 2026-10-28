@@ -1,0 +1,11 @@
+{
+  "name": "qamart-ai-testing",
+  "version": "1.0.0",
+  "description": "AI-native testing plugin for QA Mart: instructions, prompts, skills, agents, MCP and hooks.",
+  "author": { "name": "Syed Pasha" },
+  "skills": "skills/",
+  "agents": "agents/",
+  "commands": "prompts/",
+  "hooks": "hooks/hooks.json",
+  "mcpServers": ".mcp.json"
+}
